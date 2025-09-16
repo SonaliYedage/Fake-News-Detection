@@ -1,0 +1,4 @@
+News[[:space:]]_dataset/news.csv filter=lfs diff=lfs merge=lfs -text
+News[[:space:]]_dataset/Fake.csv filter=lfs diff=lfs merge=lfs -text
+News[[:space:]]_dataset/True.csv filter=lfs diff=lfs merge=lfs -text
+News[[:space:]]_dataset/*.csv filter=lfs diff=lfs merge=lfs -text
