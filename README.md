@@ -13,8 +13,7 @@ FakeNewsDetection/
 ├── requirements.txt # List of dependencies
 └── README.md # Project documentation
 
-yaml
-Copy code
+
 
 ---
 
